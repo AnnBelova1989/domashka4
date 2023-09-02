@@ -1,0 +1,14 @@
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.AssemblyInfoInputs.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.AssemblyInfo.cs
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.csproj.CoreCompileInputs.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/bin/Debug/net7.0/zadach3
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/bin/Debug/net7.0/zadach3.deps.json
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/bin/Debug/net7.0/zadach3.runtimeconfig.json
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/bin/Debug/net7.0/zadach3.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/bin/Debug/net7.0/zadach3.pdb
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/refint/zadach3.dll
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.pdb
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/zadach3.genruntimeconfig.cache
+/Users/annabelova/Desktop/учеба/домашки/занятие 4/zadach3/obj/Debug/net7.0/ref/zadach3.dll
